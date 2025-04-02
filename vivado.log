@@ -1,0 +1,35 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Wed Apr  2 17:31:52 2025
+# Process ID         : 7416
+# Current directory  : C:/Users/xvlaa/project_1
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent8404 C:\Users\xvlaa\project_1\project_1.xpr
+# Log file           : C:/Users/xvlaa/project_1/vivado.log
+# Journal file       : C:/Users/xvlaa/project_1\vivado.jou
+# Running On         : Vlad
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : Apple silicon
+# CPU Frequency      : 2000 MHz
+# CPU Physical cores : 2
+# CPU Logical cores  : 2
+# Host memory        : 8584 MB
+# Swap memory        : 4705 MB
+# Total Virtual      : 13290 MB
+# Available Virtual  : 1346 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/xvlaa/project_1/project_1.xpr
+INFO: [filemgmt 56-3] Default IP Output Path : Could not find the directory 'C:/Users/xvlaa/project_1/project_1.gen/sources_1'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'G:/Facultate/Vivado/Vivado/2024.2/data/ip'.
+open_project: Time (s): cpu = 00:00:14 ; elapsed = 00:00:16 . Memory (MB): peak = 1205.047 ; gain = 38.152
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Wed Apr  2 17:37:57 2025...

@@ -1,0 +1,12 @@
+0.7
+2020.2
+Nov  8 2024
+22:36:57
+C:/Users/xvlaa/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,uvm,,,,,,
+,,,,,,tb,,,,,,,,
+C:/Users/xvlaa/project_1/project_1.srcs/sources_1/new/DEMUX4.sv,1743429547,systemVerilog,,C:/Users/xvlaa/project_1/project_1.srcs/sources_1/new/MUX2.sv,,DEMUX4,,uvm,,,,,,
+C:/Users/xvlaa/project_1/project_1.srcs/sources_1/new/MUX2.sv,1743599050,systemVerilog,,C:/Users/xvlaa/project_1/project_1.srcs/sources_1/new/MUX2B.sv,,MUX2,,uvm,,,,,,
+C:/Users/xvlaa/project_1/project_1.srcs/sources_1/new/MUX2B.sv,1743424344,systemVerilog,,C:/Users/xvlaa/project_1/project_1.srcs/sources_1/new/NNOT.sv,,MUX2B,,uvm,,,,,,
+C:/Users/xvlaa/project_1/project_1.srcs/sources_1/new/NNOT.sv,1743430795,systemVerilog,,C:/Users/xvlaa/project_1/project_1.srcs/sources_1/new/TOP.sv,,NNOT,,uvm,,,,,,
+C:/Users/xvlaa/project_1/project_1.srcs/sources_1/new/TOP.sv,1743430658,systemVerilog,,C:/Users/xvlaa/project_1/project_1.srcs/sources_1/new/parity_calc.sv,,TOP,,uvm,,,,,,
+C:/Users/xvlaa/project_1/project_1.srcs/sources_1/new/parity_calc.sv,1743423990,systemVerilog,,C:/Users/xvlaa/project_1/project_1.srcs/sim_1/new/tb.sv,,parity_calc,,uvm,,,,,,

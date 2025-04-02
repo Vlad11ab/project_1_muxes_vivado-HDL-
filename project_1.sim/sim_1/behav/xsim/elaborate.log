@@ -1,0 +1,22 @@
+Vivado Simulator v2024.2.0
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: G:/Facultate/Vivado/Vivado/2024.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L uvm -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_behav xil_defaultlib.tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "C:/Users/xvlaa/project_1/project_1.srcs/sources_1/new/DEMUX4.sv" Line 2. Module DEMUX4 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/xvlaa/project_1/project_1.srcs/sources_1/new/DEMUX4.sv" Line 2. Module DEMUX4 doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.MUX2
+Compiling module xil_defaultlib.MUX2B
+Compiling module xil_defaultlib.DEMUX4
+Compiling module xil_defaultlib.parity_calc
+Compiling module xil_defaultlib.NNOT
+Compiling module xil_defaultlib.TOP
+Compiling module xil_defaultlib.tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_behav
